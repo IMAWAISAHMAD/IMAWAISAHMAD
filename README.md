@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🖥 &nbsp;Self taught and self motivated Full-Stack Software Engineer\
+🖥 &nbsp;Self taught and self motivated Full-Stack Developer\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Cloud Native and Mobile Web Computing at the Presidential Initiative for Artificial Intelligence & Computing.\
 🌱 &nbsp;I'm on track for learning about Dart,Flutter,Blockchain, Systems Design, and Cloud Architecture.\
