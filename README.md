@@ -8,7 +8,6 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Cloud Native and Mobile Web Computing at the Presidential Initiative for Artificial Intelligence & Computing.\
 🌱 &nbsp;I'm on track for learning about Dart,Flutter,Blockchain, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I listen music.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at awais.ahmad1990@yahoo.com I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.github.com/imawaisahmad) for more details about me. I'm open to feedback and suggestions!
