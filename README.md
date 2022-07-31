@@ -1,4 +1,4 @@
-
+Min
 # 👋 &nbsp;Hey there! I'm Awais Ahmad
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -8,7 +8,6 @@
 🎓 &nbsp;I'm currently studying Cloud Native and Mobile Web Computing at the Presidential Initiative for Artificial Intelligence & Computing.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at awais.ahmad1990@yahoo.com I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.github.com/imawaisahmad) for more details about me.
 
 ### 🛠 &nbsp;Tech Stack
 
