@@ -1,4 +1,3 @@
-Min
 # 👋 &nbsp;Hey there! I'm Awais Ahmad
 
 ### 👨🏻‍💻 &nbsp;About Me
