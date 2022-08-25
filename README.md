@@ -1,5 +1,4 @@
 # 👋 &nbsp;Hey there! I'm Awais Ahmad 
-## Full Stack Developer
 
 ### 👨🏻‍💻 &nbsp;About Me
 
