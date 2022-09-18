@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hey there! I'm Awais Ahmad 
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 🖥 &nbsp;Self taught and self motivated Full-Stack Developer\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -8,7 +8,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can send me an email at awais.ahmad1990@yahoo.com I'll try to respond as soon as I can.
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
@@ -47,7 +47,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/imawaisahmad">
@@ -56,7 +56,7 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://linkedin.com/in/imawaisahmad"><img src="https://img.shields.io/badge/-imawaisahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
