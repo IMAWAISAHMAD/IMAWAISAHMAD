@@ -53,4 +53,3 @@
 <p align="center">
 <a href="https://linkedin.com/in/imawaisahmad"><img src="https://img.shields.io/badge/-imawaisahmad-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:awais.ahmad1990@yahoo.com"><img src="https://img.shields.io/badge/awais.ahmad1990@yahoo.com-6001D2?style=flat&logo=Yahoo!&logoColor=white"/></a>
-<a href="https://facebook.com/imawaisahmad"><img src="https://img.shields.io/badge/-imawaisahmad-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
