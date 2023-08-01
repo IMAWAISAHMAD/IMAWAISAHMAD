@@ -2,11 +2,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-🖥 &nbsp;Self taught and self motivated Full-Stack Developer\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Cloud Native and Mobile Web Computing at the Presidential Initiative for Artificial Intelligence & Computing.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can send me an email at awais.ahmad1990@yahoo.com I'll try to respond as soon as I can.
+🖥 &nbsp; Self-taught and self-motivated Full-Stack Developer\
+💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+💬 &nbsp; Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp; You can send me an email at awais.ahmad1990@yahoo.com I'll try to respond as soon as I can.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -15,25 +14,18 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)&nbsp;
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)&nbsp;
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=style=flat&logo=react-router&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=style=flat&logo=redux&logoColor=white)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)&nbsp;
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql)&nbsp;
 ![Next JS](https://img.shields.io/badge/Next-black?style=style=flat&logo=next.js&logoColor=white)&nbsp;
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat&logo=gatsby&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)&nbsp;
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white)&nbsp;
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)&nbsp;
