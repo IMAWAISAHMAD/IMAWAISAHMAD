@@ -4,7 +4,7 @@
 
 🖥 &nbsp; Self-taught and self-motivated Full-Stack Developer\
 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
-💬 &nbsp; Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp; Feel free to reach out to me to know more about me or just for some interesting discussion.\
 ✉️ &nbsp; You can send me an email at awais.ahmad1990@yahoo.com I'll try to respond as soon as I can.
 
 ## 🛠 &nbsp;Tech Stack
